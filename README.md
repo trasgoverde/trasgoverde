@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌐 Full Stack Web3 Developer<br>    🏢 Specialized in Solidity, proficiency in Smart Contracts, Traceabilty Applications, DEFI, NFTs, DAOs, ZKProofs, Account Abstraction, Multisigs<br>    🎨 Passionate about technology, creating innovative Web3 applications for the real world<br>    🔐 Expertise in ZKProofs with circom and snarkjs<br>    💻 Extensive knowledge of Ethereum Virtual Machines (EVM)<br>    🤝 Open to collaborating on groundbreaking Web3 projects<br>    🌍 Deeply passionate about learning and staying updated in Web3 and Technology<br>    ⏳ Let's shape the future of Web3 together!</p>
+<p align="left">🌐 Full Stack Web3 Developer<br>    🏢 Specialized in Solidity, proficiency in Smart Contracts, Traceabilty Applications, DEFI, NFTs, DAOs, ZKProofs, Account Abstraction, Multisigs<br>    🎨 Passionate about technology, creating innovative Web3 applications for the real world<br>    🔐 Expertise in Smart Contract Audits<br>    💻 Extensive knowledge of Ethereum Virtual Machines (EVM)<br>    🤝 Open to collaborating on groundbreaking Web3 projects<br>    🌍 Deeply passionate about learning and staying updated in Web3 and Technology<br>    ⏳ Let's shape the future of Web3 together!</p>
 
 ###
 
