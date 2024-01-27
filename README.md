@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">My name is Ignacio and I'm a, Full Stack Web3 & Web2 Software Engineer, from Spain.</h3>
+<h3 align="left">My name is Ignacio Souto, I'm a Full Stack Web3 & Web2 Software Engineerfrom Spain.</h3>
 
 ###
 
