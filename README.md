@@ -41,6 +41,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/svg/ollama.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/polygon/polygon-original.svg" height="40" alt="polygon logo"  />
   <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/svg/neo4j.svg" height="40" alt="neo4j logo"  />
