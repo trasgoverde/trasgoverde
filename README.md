@@ -103,7 +103,7 @@
 <h2 align="center">📊 My GitHub Stats 📊</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=trasgoverde&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trasgoverde&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://camo.githubusercontent.com/c01a6bf1fedd3df2158ed4fba27d773ead5c59415aeba73ed874a310277b76e9/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d74726173676f7665726465267468656d653d7261646963616c" alt="GitHub Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trasgoverde&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
