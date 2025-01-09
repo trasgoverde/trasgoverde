@@ -4,7 +4,7 @@
 <!-- introduction -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I am+Ignacio+Souto!;&center=true&font=Righteous&size=35">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I+am+Ignacio+Souto!;&center=true&font=Righteous&size=35">
   </a>
 </h1>
 
@@ -27,6 +27,12 @@
 </p>
 
 <!-- github stats -->
+<h2 align="center">📊 My GitHub Stats 📊</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=trasgoverde&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=trasgoverde&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trasgoverde&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 <!-- skills -->
 <h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
@@ -98,15 +104,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo" />
 </div>
-
-
-<h2 align="center">📊 My GitHub Stats 📊</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trasgoverde&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://camo.githubusercontent.com/c01a6bf1fedd3df2158ed4fba27d773ead5c59415aeba73ed874a310277b76e9/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d74726173676f7665726465267468656d653d7261646963616c" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trasgoverde&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
 
 <!-- snake animation -->
 <h2 align="center">🐍 Watch my contributions get eaten by a snake 🐍</h2>
