@@ -10,7 +10,7 @@
 
 <br />
 <!-- about me -->
-<p align="center">
+<p align="left">
   Hi, I'm Ignacio Souto, Full Stack Web3 & Web2 Software Engineer 💻 from Spain 🇪🇸.
   <br />
   <br />
@@ -97,13 +97,3 @@
 </div>
 
 
-<!-- snake graph -->
-<div align="center">
-  <h2>🐍 Snake eating my contributions 🐍</h2>
-  <br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/trasgoverde/trasgoverde/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/trasgoverde/trasgoverde/blob/output/github-contribution-grid-snake.svg" />
-    <img src="https://github.com/trasgoverde/trasgoverde/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
-  </picture>
-</div>
