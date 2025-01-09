@@ -28,9 +28,9 @@
 
 <h2 align="center">📊 My GitHub Stats 📊</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trasgoverde&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trasgoverde&theme=radical" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trasgoverde&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=trasgoverde&&layout=compactshow_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trasgoverde&layout=compact&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trasgoverde&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 <!-- skills -->
