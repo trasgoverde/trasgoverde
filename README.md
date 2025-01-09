@@ -33,13 +33,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trasgoverde&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-
-<!-- snake animation -->
-<h2 align="center">🐍 Watch my contributions get eaten by a snake 🐍</h2>
-<div align="center">
-  <img src="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-<hr />
 <!-- skills -->
 <h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
 <br />
