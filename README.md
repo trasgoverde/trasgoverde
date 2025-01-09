@@ -4,11 +4,12 @@
 <!-- introduction -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Ignacio+Souto!;&center=true&font=Righteous&size=35">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I am+Ignacio+Souto!;&center=true&font=Righteous&size=35">
   </a>
 </h1>
 
 <br />
+
 <!-- about me -->
 <p align="left">
   Hi, I'm Ignacio Souto, Full Stack Web3 & Web2 Software Engineer 💻 from Spain 🇪🇸.
@@ -20,10 +21,12 @@
   🧠 Expertise in AI Models, RAGs, Agentic AI developments<br>
   🔐 Expertise in Smart Contract Audits<br>
   💻 Extensive knowledge of Ethereum Virtual Machines (EVM)<br>
-  🤝 Open to collaborating on groundbreaking Web2 Web3 and AI projects<br>
+  🤝 Open to collaborating on groundbreaking Web2 Web3 projects<br>
   🌍 Deeply passionate about learning and staying updated in Web3 and Technology<br>
   ⏳ Let's shape the future of development together!
 </p>
+
+<!-- github stats -->
 
 <!-- skills -->
 <h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
@@ -97,3 +100,16 @@
 </div>
 
 
+<h2 align="center">📊 My GitHub Stats 📊</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=trasgoverde&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trasgoverde&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trasgoverde&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+
+<!-- snake animation -->
+<h2 align="center">🐍 Watch my contributions get eaten by a snake 🐍</h2>
+<div align="center">
+  <img src="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
