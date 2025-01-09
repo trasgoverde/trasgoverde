@@ -20,7 +20,7 @@
   🧠 Expertise in AI Models, RAGs, Agentic AI developments<br>
   🔐 Expertise in Smart Contract Audits<br>
   💻 Extensive knowledge of Ethereum Virtual Machines (EVM)<br>
-  🤝 Open to collaborating on groundbreaking Web2 Web3 projects<br>
+  🤝 Open to collaborating on groundbreaking Web2 Web3 and AI projects<br>
   🌍 Deeply passionate about learning and staying updated in Web3 and Technology<br>
   ⏳ Let's shape the future of development together!
 </p>
