@@ -15,7 +15,7 @@
   Hi, I'm Ignacio Souto, Full Stack Web3 & Web2 Software Engineer 💻 from Spain 🇪🇸.
   <br />
   <br />
-  🌐 Full Stack Web2 Web3 Developer<br>
+  🌐 Software Engineer - Full Stack - Web2 Web3 Developer<br>
   🏢 Specialized in Solidity, proficiency in Smart Contracts, Traceability Applications, DEFI, NFTs, DAOs, ZKProofs, Account Abstraction, Multisigs<br>
   🎨 Passionate about technology, creating innovative Web2 Web3 applications for the real world<br>
   🧠 Expertise in AI Models, RAGs, Agentic AI developments<br>
